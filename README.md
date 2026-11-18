@@ -21,11 +21,6 @@ This modular architecture simplifies debugging, testing, maintenance, and future
 ## 📂 Contents
 - `/Hardware` →  Schematic, Gerbers.
 
-## 🌐 YouTube
-
-📺 [Upgrade Power Stage](https://youtube.com/shorts/vSKApaUKDLE?feature=share)
-
-
 ## 🔗 Project Context
 
 This power distribution and regulation board is part of the ongoing hardware updates for the **DIY UAV project**.
@@ -33,7 +28,7 @@ This power distribution and regulation board is part of the ongoing hardware upd
 The main project repository documents the overall UAV system, including mechanical design, control architecture, and system integration:
 
 - **DIY UAV – Main Project Repository**  
-  [DIY UAV](https://github.com/CrissCCL/DIY_UAV)
+  [DIY UAV](https://github.com/dev2439/DIY_UAV)
 
 This repository focuses exclusively on the **power stage modularization**, extracted from the original integrated PCB to improve system scalability, maintainability, and electrical robustness.
 
@@ -111,9 +106,6 @@ The power distribution and regulation board is **not flight-certified** and has 
 
 Users are responsible for ensuring safe operation, proper electrical protection, and compliance with applicable regulations when working with high-current systems.
 
-
-## 🤝 Support projects
- Support me on Patreon [https://www.patreon.com/c/CrissCCL](https://www.patreon.com/c/CrissCCL)
 
 ## 📜 License
 MIT License
